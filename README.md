@@ -1,3 +1,5 @@
+# Archiving this Repo
+
 # Vedansh Airen — Engineering Portfolio
 
 A static React/TypeScript portfolio connecting professional experience with 27 projects, eight detailed case studies, five Mermaid system views, research, and technical writing. Dark and light themes, responsive navigation, search and category/context filters, and a downloadable resume are included.
